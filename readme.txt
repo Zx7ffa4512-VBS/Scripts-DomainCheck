@@ -1,2 +1,2 @@
-查看域名注册与否
+鏌ョ湅鍩熷悕娉ㄥ唽涓庡惁 
 cscript DomainCheck.vbs .com
